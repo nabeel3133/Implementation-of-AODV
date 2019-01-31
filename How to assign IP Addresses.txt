@@ -1,0 +1,20 @@
+sudo ip addr add 10.92.255.0 dev wlan0
+
+
+sudo ip addr add 10.92.255.1 dev wlan0
+
+
+sudo ip addr add 10.92.255.2 dev wlan0
+
+
+sudo ip addr add 10.92.255.3 dev wlan0
+
+
+sudo ip addr add 10.92.255.4 dev wlan0
+
+
+sudo ip addr add 10.92.255.5 dev wlan0
+
+
+sudo ip addr add 10.92.255.6 dev wlan0
+
